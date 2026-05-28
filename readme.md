@@ -1,4 +1,4 @@
-# Infinite Story: AI-Powered Interactive Storytelling Platform
+# Dark Narratives: AI-Powered Interactive Storytelling Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=white"/>
@@ -12,7 +12,7 @@
 
 ## ✨ Overview
 
-**Infinite Story** is a full-stack AI-powered storytelling web application that allows users to generate immersive stories across multiple genres in real time.
+**Dark Narratives** is a full-stack AI-powered storytelling web application that allows users to generate immersive stories across multiple genres in real time.
 
 Users can choose a genre, enter a story prompt, and instantly receive AI-generated narratives tailored to their imagination. The platform combines creative storytelling with modern web technologies to create an engaging and interactive experience.
 
